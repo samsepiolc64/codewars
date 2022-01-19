@@ -2,7 +2,6 @@ class Ball:
     def __init__(self, type = "regural"):
         self.ball_type = type
 
-
 ball1 = Ball()
 ball2 = Ball("super")
 
