@@ -1,34 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64775266-9daa-4b18-b035-d92f8396258a" name="Default Changelist" comment="" />
+    <list default="true" id="64775266-9daa-4b18-b035-d92f8396258a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10minutspacer/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../10minutspacer/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/assembler.js" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/assembler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/assembler.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/assembler.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/327891083293717acc03dd3de32dd3f3-346acaebc59232840429631d2bfcf717c77e8335/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../assembler/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcounting/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcounting/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../divisors/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../divisors/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lettercount/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../lettercount/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleword/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../middleword/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../robotscript2/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../robotscript2/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segmentdisplay/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../segmentdisplay/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedcubers/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../speedcubers/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stringincrementer/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../stringincrementer/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../twotoone/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../twotoone/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uniqueinorder/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../uniqueinorder/venv/bin/python3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/easy_install-3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/easy_install-3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/pip3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/pip3.7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/python3" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/python3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wallpaper/venv/bin/python3.7" beforeDir="false" afterPath="$PROJECT_DIR$/../wallpaper/venv/bin/python3.7" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/invert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../twotoone/venv/twotoone.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,44 +143,13 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/venv/invert.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="36" />
-    <option name="width" value="1920" />
-    <option name="height" value="1011" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="invert" type="b2602c69:ProjectViewProjectNode" />
-              <item name="invert" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="invert" type="b2602c69:ProjectViewProjectNode" />
-              <item name="invert" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1cMknUv2E0nGct3aAKUtPktpCr1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
@@ -97,11 +172,21 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="C:\Users\micha\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/invert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -125,43 +210,17 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="10" y="36" width="1920" height="1011" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297062" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../twotoone/venv/twotoone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/invert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
