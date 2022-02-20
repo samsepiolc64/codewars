@@ -1,32 +1,42 @@
+import numpy as np
 class PaginationHelper:
-
-    # The constructor takes in an array of items and a integer indicating
-    # how many items fit within a single page
     def __init__(self, collection, items_per_page):
         self.collection = collection
         self.items_per_page = items_per_page
+        self.len_collection = len(self.collection)
+        self.pages = []
+        page = 0
+        items_per_page = self.items_per_page
+        for i in range(self.len_collection):
+            self.pages.append(page)
+            if  i == items_per_page-1:
+                page += 1
+                items_per_page += self.items_per_page
 
-    # returns the number of items within the entire collection
     def item_count(self):
-        print('liczba wszystkich elementow')
+        return len(self.collection )
 
-    # returns the number of pages
     def page_count(self):
-        print('liczba stron')
+        return len(np.unique(self.pages))
 
-    # returns the number of items on the current page. page_index is zero based
-    # this method should return -1 for page_index values that are out of range
     def page_item_count(self, page_index):
-        print('liczba elementow na danej stronie')
+        return -1 if self.pages.count(page_index) <= 0 else self.pages.count(page_index)
 
-    # determines what page an item is on. Zero based indexes.
-    # this method should return -1 for item_index values that are out of range
     def page_index(self, item_index):
-        print('na ktorej stornie nzajduje si edany element')
+        return -1 if 0 > item_index or item_index >= self.len_collection else self.pages[item_index]
 
 if __name__ == '__main__':
-    collection = range(1, 25)
-    helper = PaginationHelper(collection, 10)
-    helper.page_count()
-    pass
+    # collection = range(1, 25)
+    collection = ['a','b','c','d','e','f','g',"h"]
+    helper = PaginationHelper(collection, 12)
+    h1 = helper.page_count()
+    h2 = helper.item_count()
+    h3 = helper.page_item_count(5)
+    h4 = helper.page_index(7)
+    print(f'page_count {h1}')
+    print(f'item_count {h2}')
+    print(f'page_item_count {h3}')
+    print(f'page_item_count {h4}')
+
+
 
